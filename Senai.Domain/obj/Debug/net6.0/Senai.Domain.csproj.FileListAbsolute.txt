@@ -1,0 +1,11 @@
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Domain\bin\Debug\net6.0\Senai.Domain.deps.json
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Domain\bin\Debug\net6.0\Senai.Domain.dll
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Domain\bin\Debug\net6.0\Senai.Domain.pdb
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Domain\obj\Debug\net6.0\Senai.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Domain\obj\Debug\net6.0\Senai.Domain.AssemblyInfoInputs.cache
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Domain\obj\Debug\net6.0\Senai.Domain.AssemblyInfo.cs
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Domain\obj\Debug\net6.0\Senai.Domain.csproj.CoreCompileInputs.cache
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Domain\obj\Debug\net6.0\Senai.Domain.dll
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Domain\obj\Debug\net6.0\refint\Senai.Domain.dll
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Domain\obj\Debug\net6.0\Senai.Domain.pdb
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Domain\obj\Debug\net6.0\ref\Senai.Domain.dll

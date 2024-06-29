@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "StVkVXb2yJ3Y4Bn4i0IqRzP5NPHRmcJsBrDmQMrAMA40ixi9C7aIC5rJykxcBV5CW2LLaupnEDopVGbuW/HZaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joao_rodrigues23\\Desktop\\MVC\\Senai\\Senai.Domain\\Senai.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao_rodrigues23\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\joao_rodrigues23\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\joao_rodrigues23\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

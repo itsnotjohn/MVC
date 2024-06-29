@@ -1,0 +1,15 @@
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Repository\bin\Debug\net6.0\Senai.Repository.deps.json
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Repository\bin\Debug\net6.0\Senai.Repository.dll
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Repository\bin\Debug\net6.0\Senai.Repository.pdb
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Repository\bin\Debug\net6.0\Senai.Domain.dll
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Repository\bin\Debug\net6.0\Senai.Domain.pdb
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Repository\obj\Debug\net6.0\Senai.Repository.csproj.AssemblyReference.cache
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Repository\obj\Debug\net6.0\Senai.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Repository\obj\Debug\net6.0\Senai.Repository.AssemblyInfoInputs.cache
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Repository\obj\Debug\net6.0\Senai.Repository.AssemblyInfo.cs
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Repository\obj\Debug\net6.0\Senai.Repository.csproj.CoreCompileInputs.cache
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Repository\obj\Debug\net6.0\Senai.Repository.csproj.CopyComplete
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Repository\obj\Debug\net6.0\Senai.Repository.dll
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Repository\obj\Debug\net6.0\refint\Senai.Repository.dll
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Repository\obj\Debug\net6.0\Senai.Repository.pdb
+C:\Users\joao_rodrigues23\Desktop\MVC\Senai\Senai.Repository\obj\Debug\net6.0\ref\Senai.Repository.dll
